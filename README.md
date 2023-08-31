@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ![elitebrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=elitebrain&include_all_commits=true&count_private=true&theme=vue&show_icons=true&hide=stars,prs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elitebrain&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elitebrain&layout=compact&theme=vue)
