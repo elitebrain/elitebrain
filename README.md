@@ -1,5 +1,5 @@
 ### Welcome to Yeonghyeon's GitHub
-
+<hr />
 <!--
 **elitebrain/elitebrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
