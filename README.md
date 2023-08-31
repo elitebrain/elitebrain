@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 ![](./profile-3d-contrib/profile-gitblock.svg)
 -->
 
+<!--
 ![elitebrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=elitebrain&include_all_commits=true&count_private=true&theme=vue&show_icons=true&hide=stars,prs)
+-->
+[![elitebrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=elitebrain&hide=stars&count_private=true&show_icons=true&theme=vue)](https://github.com/elitebrain/github-readme-stats)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elitebrain&layout=compact&theme=vue)
