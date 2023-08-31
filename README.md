@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ![](./profile-3d-contrib/profile-gitblock.svg)
 -->
 
+<a href="https://opgc.me/#/users/elitebrain" target="_blank"><img src="https://api.opgc.me/githubs/users/elitebrain/tag/?theme=basic" /></a>
+
 <!--
 ![elitebrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=elitebrain&include_all_commits=true&count_private=true&theme=vue&show_icons=true&hide=stars,prs)
 -->
