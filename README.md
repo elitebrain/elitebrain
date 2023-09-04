@@ -1,4 +1,5 @@
-### Welcome to Yeonghyeon's GitHub
+### Welcome to elitebrain's GitHub
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I%27m+Yeonghyeon&fontSize=90)
 <hr />
 <!--
 **elitebrain/elitebrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
