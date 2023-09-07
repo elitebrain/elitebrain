@@ -1,5 +1,8 @@
 ### Welcome to elitebrain's GitHub
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=I%27m+Yeonghyeon&fontSize=90)
+</div>
 <hr />
 <!--
 **elitebrain/elitebrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +23,9 @@ Here are some ideas to get you started:
 ![](./profile-3d-contrib/profile-gitblock.svg)
 -->
 
+<div align="center">
 <img src="https://api.opgc.me/githubs/users/elitebrain/tag/?theme=basic" />
+</div>
 
 <!--
 ![elitebrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=elitebrain&include_all_commits=true&count_private=true&theme=vue&show_icons=true&hide=stars,prs)
